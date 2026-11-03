@@ -1,0 +1,4 @@
+{
+  "buildCommand": "echo static",
+  "outputDirectory": "frontend"
+}
